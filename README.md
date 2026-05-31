@@ -6,20 +6,19 @@
 </div>
 
 ---
+» About Me
 
-## ðŸ‘¨â€ðŸ’» About Me
+I'm a passionate **Electronics Engineer** who loves building intelligent systems that solve real-world problems. From smart grid security to data-driven applications, I turn ideas into impactful code.
 
-I'm a passionate **AI/ML Engineer** who loves building intelligent systems that solve real-world problems. From smart grid security to data-driven applications, I turn ideas into impactful code.
-
-- ðŸ”­ Currently working on **Smart Electricity Theft Detection** using ML
-- ðŸŒ± Exploring **Deep Learning**, **IoT Security**, and **Anomaly Detection**
-- ðŸ’¡ Interested in **Power Systems**, **Computer Vision**, and **Edge AI**
-- ðŸ“« Reach me at: **ysalman-code** on GitHub
-- âš¡ Fun fact: I believe AI can make utility infrastructure smarter and safer
+”­ Currently working on **Smart Electricity Theft Detection** using ML
+Exploring **Deep Learning**, **IoT Security**, and **Anomaly Detection**
+ Interested in **Power Systems**, **Computer Vision**, and **Edge AI**
+“« Reach me at: **ysalman-code** on GitHub
+ Fun fact: I believe AI can make utility infrastructure smarter and safer
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+ Tech Stack
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,16 +41,16 @@ I'm a passionate **AI/ML Engineer** who loves building intelligent systems that 
 
 ---
 
-## ðŸš€ Featured Projects
+Featured Projects
 
-### âš¡ [Smart Electricity Theft Detection](https://github.com/ysalman-code/smart-electricity-theft-detection)
+ [Smart Electricity Theft Detection](https://github.com/ysalman-code/smart-electricity-theft-detection)
 > An intelligent system leveraging Machine Learning to detect anomalous electricity consumption patterns and identify theft in smart grid networks.
 
 **Key Features:**
-- ðŸ” Anomaly detection using supervised & unsupervised ML models
-- ðŸ“Š Real-time consumption pattern analysis
+ Anomaly detection using supervised & unsupervised ML models
+“Š Real-time consumption pattern analysis
 - ðŸ  Smart meter data processing pipeline
-- ðŸ“ˆ High-accuracy classification of fraudulent usage
+  “ˆ High-accuracy classification of fraudulent usage
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -59,7 +58,7 @@ I'm a passionate **AI/ML Engineer** who loves building intelligent systems that 
 
 ---
 
-## ðŸ“Š GitHub Stats
+GitHub Stats
 
 <div align="center">
 
@@ -76,7 +75,7 @@ I'm a passionate **AI/ML Engineer** who loves building intelligent systems that 
 
 ---
 
-## ðŸ† GitHub Trophies
+GitHub Trophies
 
 <div align="center">
 
@@ -85,8 +84,7 @@ I'm a passionate **AI/ML Engineer** who loves building intelligent systems that 
 </div>
 
 ---
-
-## ðŸ“ˆ Activity Graph
+Activity Graph
 
 <div align="center">
 
